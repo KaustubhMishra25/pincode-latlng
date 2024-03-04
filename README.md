@@ -1,0 +1,1 @@
+#### Using <a href="https://rapidapi.com/vigowebs/api/india-pincode-with-latitude-and-longitude/">This API</a> to fetch location data, the sample results are in the attached excel file. Free accounts provide only 1000 requests per month.
